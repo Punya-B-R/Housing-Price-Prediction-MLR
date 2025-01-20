@@ -7,9 +7,9 @@ The project follows a structured approach to build a regression model:
 
 **3. Model Building:**
 
-    **- Bottom-Up Approach:** Start with a single predictor and incrementally add variables to the model.
-    
-    **- Feature Selection:** After all variables have been included, manually eliminate features to optimize the model's performance.
+- **Bottom-Up Approach:** Start with a single predictor and incrementally add variables to the model.
+
+- **Feature Selection:** After all variables have been included, manually eliminate features to optimize the model's performance.
     
 **4. Residual Analysis:** Examine the residuals to assess any patterns that might affect the reliability of the predictions.
 
